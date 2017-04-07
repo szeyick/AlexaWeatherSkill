@@ -68,8 +68,9 @@ An utterance is what can be spoken by the user to the Echo that will then be pro
 Where [ place ] = Melbourne, Sydney, Brisbane, etc.
 
 Example -
-	Q - "Alexa, ask BOM what the weather is in [ place ]"
-	A - "The current weather in [ place ] is..."
+
+Q - "Alexa, ask BOM what the weather is in [ place ]"
+A - "The current weather in [ place ] is..."
 
 **Weather report for the current location**
 
@@ -78,8 +79,9 @@ Example -
 - What the weather is today.
 
 Example -
-	Q - "Alexa, ask BOM what the weather is today"
-	A - "The weather today in .... is ...."
+
+Q - "Alexa, ask BOM what the weather is today"
+A - "The weather today in .... is ...."
 
 **Tomorrow's weather for the current location**
 
@@ -88,8 +90,9 @@ Example -
 3. What the weather is tomorrow
 
 Example -
-	Q - "Alexa, ask BOM what the weather is tomorrow"
-	A - "The weather tomorrow in .... is ...."
+
+Q - "Alexa, ask BOM what the weather is tomorrow"
+A - "The weather tomorrow in .... is ...."
 
 **Range Forecast (Current Location, Day)**
 
@@ -100,8 +103,9 @@ Example -
 Where [ day ] = Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
 
 Example -
-	Q - "Alexa, ask BOM what the weather is on [ day ]"
-	A - "The weather on [ day ] is ..."
+
+Q - "Alexa, ask BOM what the weather is on [ day ]"
+A - "The weather on [ day ] is ..."
 
 **Range Forecast (Location, Day)**
 
@@ -114,10 +118,12 @@ Where [ day ] = Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 Where [ place ] = Melbourne, Sydney, Brisbane
 
 Example -
-	Q - "Alexa, ask BOM what the weather is in [ place ] on [ day ]"
-	A - "The weather on [ day ] in [ place ] is ...."
-	Q - "Alexa, ask BOM what's the weather on [ day ] in [ place ]"
-	A - "The weather on [ day ] in [ place ] is ...."
+
+Q - "Alexa, ask BOM what the weather is in [ place ] on [ day ]"
+A - "The weather on [ day ] in [ place ] is ...."
+
+Q - "Alexa, ask BOM what's the weather on [ day ] in [ place ]"
+A - "The weather on [ day ] in [ place ] is ...."
 
 **Current Temperature (Current Location)**
 
@@ -125,8 +131,9 @@ Example -
 2. What's the current temperature
 
 Example -
-	Q - "Alexa, ask BOM what is the current temperature"
-	A - "The current temperature is ..."
+
+Q - "Alexa, ask BOM what is the current temperature"
+A - "The current temperature is ..."
 
 **Current Temperature (Known Location)**
 
@@ -136,5 +143,5 @@ Example -
 Where [ place ] = Melbourne, Sydney, Brisbane, etc.
 
 Example -
-	Q - "Alexa, ask BOM what is the current temperature in [ place ]"
-	A - "The current temperature in [ place ] is ... "
+Q - "Alexa, ask BOM what is the current temperature in [ place ]"
+A - "The current temperature in [ place ] is ... "
