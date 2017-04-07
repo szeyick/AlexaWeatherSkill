@@ -69,7 +69,7 @@ Where [ place ] = Melbourne, Sydney, Brisbane, etc.
 
 Example -
 
-Q - "Alexa, ask BOM what the weather is in [ place ]"
+Q - "Alexa, ask BOM what the weather is in [ place ]" <br>
 A - "The current weather in [ place ] is..."
 
 **Weather report for the current location**
@@ -80,7 +80,7 @@ A - "The current weather in [ place ] is..."
 
 Example -
 
-Q - "Alexa, ask BOM what the weather is today"
+Q - "Alexa, ask BOM what the weather is today" <br>
 A - "The weather today in .... is ...."
 
 **Tomorrow's weather for the current location**
@@ -91,7 +91,7 @@ A - "The weather today in .... is ...."
 
 Example -
 
-Q - "Alexa, ask BOM what the weather is tomorrow"
+Q - "Alexa, ask BOM what the weather is tomorrow" <br>
 A - "The weather tomorrow in .... is ...."
 
 **Range Forecast (Current Location, Day)**
@@ -104,8 +104,8 @@ Where [ day ] = Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
 
 Example -
 
-Q - "Alexa, ask BOM what the weather is on [ day ]"
-A - "The weather on [ day ] is ..."
+Q: "Alexa, ask BOM what the weather is on [ day ]" <br>
+A: "The weather on [ day ] is ..."
 
 **Range Forecast (Location, Day)**
 
@@ -114,15 +114,15 @@ A - "The weather on [ day ] is ..."
 3. What's the weather in [ place ] on [ day ]
 4. What is the weather in [ place ] on [ day ]
 
-Where [ day ] = Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+Where [ day ] = Monday, Tuesday, Wednesday, Thursday, Friday, Saturday <br>
 Where [ place ] = Melbourne, Sydney, Brisbane
 
 Example -
 
-Q - "Alexa, ask BOM what the weather is in [ place ] on [ day ]"
+Q - "Alexa, ask BOM what the weather is in [ place ] on [ day ]" <br>
 A - "The weather on [ day ] in [ place ] is ...."
 
-Q - "Alexa, ask BOM what's the weather on [ day ] in [ place ]"
+Q - "Alexa, ask BOM what's the weather on [ day ] in [ place ]" <br>
 A - "The weather on [ day ] in [ place ] is ...."
 
 **Current Temperature (Current Location)**
@@ -132,7 +132,7 @@ A - "The weather on [ day ] in [ place ] is ...."
 
 Example -
 
-Q - "Alexa, ask BOM what is the current temperature"
+Q - "Alexa, ask BOM what is the current temperature" <br>
 A - "The current temperature is ..."
 
 **Current Temperature (Known Location)**
@@ -143,5 +143,6 @@ A - "The current temperature is ..."
 Where [ place ] = Melbourne, Sydney, Brisbane, etc.
 
 Example -
-Q - "Alexa, ask BOM what is the current temperature in [ place ]"
+
+Q - "Alexa, ask BOM what is the current temperature in [ place ]" <br>
 A - "The current temperature in [ place ] is ... "
