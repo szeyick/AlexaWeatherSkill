@@ -19,6 +19,7 @@
         "fs" : "latest",
         "xml2js" : "latest",
         "util" : "latest",
-        "events" : "latest"
+        "events" : "latest",
+        "hashmap" : "latest"
     }
 }
