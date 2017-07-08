@@ -1,7 +1,8 @@
 ## Alexa Weather Skill
 
-This project is a new skill for the Amazon Alexa that will allow it to retrieve
-weather information for Australian cities from the Bureau of Meteorology (BOM)
+This repository contains a NodeJS application that will allow voice data captured by an Amazon Echo to be passed into the application and processed. The application is responsible for processing the specific request and forwarding it onto AWS IoT.
+
+This application functions as an Alexa Skill that is used to process voice requests to retrieve weather data from the Australian Bureau of Meteorology (BOM)
 
 ## Background:
 
