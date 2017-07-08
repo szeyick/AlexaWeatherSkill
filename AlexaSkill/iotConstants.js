@@ -8,8 +8,8 @@
 */
 var iotConstants = module.exports = {
   configuration: {
-    keyPath: __dirname + '/keys/e349f42bca-private.pem.key',
-    certPath: __dirname + '/keys/e349f42bca-certificate.pem.crt',
+    keyPath: __dirname + '/keys/private.pem.key',
+    certPath: __dirname + '/keys/certificate.pem.crt',
     caPath: __dirname + '/keys/rootCA.crt',
     clientId: "PiWeather",
     region: "us-east-1",
